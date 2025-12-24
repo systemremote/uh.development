@@ -1,3 +1,3 @@
-# uh
-## A Multipurpose Discord Bot
+# uh bot
+## A Multipurpose & Ongoing Development Discord Bot
 ## Discord Server: https://discord.gg/pkbPg2nahc
